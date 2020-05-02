@@ -7,11 +7,14 @@ The KSMaster GUI version is currently under development.
 - Arranging seats by students' exam scores.
 # Getting Started
 Drag and drop csv files and/or directories into the executable or run:
-> ksmaster path...
+`ksmaster path...`
+`ksmaster path... -o path...`
 The csv file should be like that:
-> stunum,stuname,sturank
-> 1,Chen Example,1
-> ...
+```
+	stunum,stuname,sturank
+	1,Chen Example,1
+	...
+```
 # References
 [fast-cpp-csv-parser][1]
 
