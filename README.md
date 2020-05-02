@@ -13,6 +13,6 @@ The csv file should be like that:
 > 1,Chen Example,1
 > ...
 # References
-fast-cpp-csv-parser[1]
+[fast-cpp-csv-parser][1]
 
 [1]:https://github.com/ben-strasser/fast-cpp-csv-parser
